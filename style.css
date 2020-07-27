@@ -1,0 +1,29 @@
+h1 {
+    text-align:center;
+    font-size: xx-large;
+}
+
+#capa {
+    background: url(formandos.jpeg);
+    background-size: 100%;
+    text-align: center;
+    color: wheat;
+    text-shadow: rgb(0, 0, 0) --5px --2px;
+    height: 400px;
+    padding: 150px 300px;
+
+}
+
+a {
+    color: white;
+}
+
+p {
+    font-size: 20px;
+    font-family: Verdana;
+}
+
+/*Font for <p> below image or video */
+/* font-family: 'Franklin Gothic Medium'; */
+
+
